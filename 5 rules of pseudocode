@@ -1,0 +1,5 @@
+Write one statement per line.
+Capitalize initial keywords (READ, WRITE, IF, WHILE, UNTIL).
+Indent to show hierarchy.
+End multiline structures (ENDIF, ENDWHILE, ENDFOR).
+Keep statements language-independent.
